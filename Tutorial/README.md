@@ -29,13 +29,14 @@ library(GeneErrorMis)
 
 * Step 2: Configure the global parameters
 Modify the following global parameter in "main.R"
-** seed: the seed of generating simulation data
+
+seed: the seed of generating simulation data
 
 * Step 3: Implement method in "main.R"
 
 
 
 ## File Structure
-* [Main](https://github.com/QihuangZhang/GNSM/blob/main/code/DataAnalysis/GNSM_data_analysis.R)
-* [Auxiliary Functions](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation2.R): GNSM without measurement error in comparison to RelNet method.
-* [Example Resulting Data](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation2.R): GNSM without measurement error in comparison to RelNet method.
+* [Main](https://github.com/QihuangZhang/ZeroInf/blob/master/Tutorial/Main.R): Main R file in implementating the tutorial exmaple
+* [Auxiliary Functions](https://github.com/QihuangZhang/ZeroInf/blob/master/Tutorial/Functions.R): Auxiliary Functions that are needed during the implementation
+* [Example Resulting Data](https://github.com/QihuangZhang/ZeroInf/blob/master/Tutorial/ExampleResults.RData): An example of the generated results
