@@ -2,7 +2,7 @@
 
 2021-07-20
 
-Tutorial of "Zero-Inflated Poisson Models with Measurement Error in Response"
+Data and code for reproducing the results in the article of "Zero-Inflated Poisson Models with Measurement Error in Response"
 by [Qihuang Zhang](https://qihuangzhang.com) and [Grace Y. Yi](https://www.uwo.ca/stats/people/bios/Yi,%20Grace.html).
 
 
