@@ -25,10 +25,10 @@ library(GeneErrorMis)
 
 
 ## File Structure
-* [Naive Method](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation0.R)
-* [Section 6.1： Simulation 1](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation1.R)
-* [Section 6.2： Simulation 2](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation2.R)
-* [Section 6.3： Simulation 3]
-  * [Proposed Method](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation3.R)
-  * [External Validation](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation4.R): X_i is not available but W_i is available in validation data
-  * [Internal Validation](https://github.com/QihuangZhang/GNSM/blob/main/code/Simulation/Simulation5.R): Both X_i and W_i is available in validation data
+* [Naive Method](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation0.R)
+* [Section 6.1： Simulation 1](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation1.R)
+* [Section 6.2： Simulation 2](https://github.com/QihuangZhang/ZeroInf/blob/master/code//Simulation/Simulation2.R)
+* Section 6.3： Simulation 3
+  * [Proposed Method](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation3.R)
+  * [External Validation](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation4.R): X_i is not available but W_i is available in validation data
+  * [Internal Validation](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation5.R): Both X_i and W_i is available in validation data
