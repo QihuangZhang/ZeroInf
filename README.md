@@ -32,3 +32,10 @@ library(GeneErrorMis)
   * [Proposed Method](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation3.R)
   * [External Validation](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation4.R): X_i is not available but W_i is available in validation data
   * [Internal Validation](https://github.com/QihuangZhang/ZeroInf/blob/master/code/Simulation/Simulation5.R): Both X_i and W_i is available in validation data
+
+
+Please cite the following publication:
+
+> *Zero‐inflated Poisson models with measurement error in the response. *<br />
+> <small>Zhang, Q. and Yi, G. Y. (2022)<br /></small>
+> Biometrics. [https://doi.org/10.1111/biom.13657](https://doi.org/10.1111/biom.13657) 
